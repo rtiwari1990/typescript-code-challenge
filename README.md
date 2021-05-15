@@ -15,6 +15,6 @@ From an IDE : Go to this class: src/main/java/com/orchestration/Orchestrate.java
 
 From command line: Execute this command: mvn compile exec:java -Dexec.mainClass="com.orchestration.Orchestrate" from typescript-code-challenge folder.
 
-#Unit test
+# Unit test
 
 Unit test can be found in this file: src/test/java/com/service/TransformDataServiceIT.java 
